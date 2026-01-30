@@ -14,8 +14,8 @@ def test_hw4_problem5() -> None:
     # When
     
     ## Modify these values
-    m = 1       # Probability of meeting
-    p = 0.4     # Transmission rate
+    m = 0.15       # Probability of meeting
+    p = 1     # Transmission rate
     gamma = 0.1 # Recovery rate
     N = 1000
     s0 = N-1
